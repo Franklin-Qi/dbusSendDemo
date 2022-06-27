@@ -1,0 +1,2 @@
+# dbusSendDemo
+dbusSendDemo for qt
