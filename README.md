@@ -22,6 +22,9 @@
 
 **打开有线网络**的功能。
 
+![session dbus 方式打开有线网络](./ukui-control-center-dbus-demo.jpg)
+
+
 ## 二、system 方式
 
 [widget.cpp](./widget.cpp) 中 `openUkccNetwork`函数调用是 `system`方式调用演示模板，
