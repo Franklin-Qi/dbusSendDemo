@@ -26,4 +26,4 @@
 
 [widget.cpp](./widget.cpp) 中 `openUkccNetwork`函数调用是 `system`方式调用演示模板，
 
-该 `openUkccNetwork` 函数可以实现打开** 设置** 的功能。
+该 `openUkccNetwork` 函数可以实现打开 **设置中有线网络设置页面** 的功能。
